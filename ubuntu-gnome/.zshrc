@@ -83,5 +83,17 @@ source $ZSH/oh-my-zsh.sh
 # ssh alias
 alias og-cricket-server=''
 
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
+# general alias
+
+alias open='nautilus'
+alias chrome='/opt/google/chrome-unstable/google-chrome'
+alias py2='python'
+alias py3='python3'
+alias robo='/opt/robo3t/bin/robo3t'
+alias server.n='sudo service nginx'
+alias server.a2='sudo service apache2'
+alias kraken='gitkraken'
+
+#ssh alias
+alias zshconfig="mate ~/.zshrc"
+alias ohmyzsh="mate ~/.oh-my-zsh"
