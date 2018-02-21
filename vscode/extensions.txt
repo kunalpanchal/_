@@ -1,0 +1,14 @@
+code --list-extensions
+
+christian-kohler.npm-intellisense
+eamodio.gitlens
+eg2.vscode-npm-script
+formulahendry.code-runner
+humao.rest-client
+ms-python.python
+qezhu.gitlink
+shardulm94.trailing-spaces
+steoates.autoimport
+streetsidesoftware.code-spell-checker
+whtouche.vscode-js-console-utils
+zhuangtongfa.Material-theme
