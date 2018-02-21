@@ -28,5 +28,7 @@
         "zadd",
         "zrem",
         "zscore"
-    ]
+    ],
+    "editor.tabCompletion": true,
+    "trailing-spaces.trimOnSave": true
 }
