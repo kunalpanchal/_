@@ -17,7 +17,7 @@
     "workbench.statusBar.visible": true,
     "workbench.sideBar.location": "left",
     "editor.minimap.enabled": false,
-    "editor.formatOnSave": false,
+    "editor.formatOnSave": true,
     "cSpell.language": "en",
     "cSpell.userWords": [
         "hdel",
