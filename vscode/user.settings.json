@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "git.enableSmartCommit": true,
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressUpdateNotice": false,
+        "suppressWelcomeNotice": true
+    },
+    "git.confirmSync": false,
+    "window.zoomLevel": 0,
+    "workbench.statusBar.visible": true,
+    "workbench.sideBar.location": "left",
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": false,
+    "cSpell.language": "en",
+    "cSpell.userWords": [
+        "hdel",
+        "hget",
+        "hset",
+        "lpush",
+        "lrem",
+        "zadd",
+        "zrem",
+        "zscore"
+    ]
+}
