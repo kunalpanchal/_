@@ -4,7 +4,7 @@
 ## Initial setup mandatory changes
  - Go to system Preferences and update the keyboard settings to **Key Repeat = fast** and **Delay Untill Repeat = short**
  - Install ZSH and install the theme `spaceship`
- - Update the `.zshrc` file in `~` from [_](https://github.com/kunalpanchal/_)
+ - Update the `.zshrc` file in `~` from [_/macOs/.zshrc](https://github.com/kunalpanchal/_/blob/master/macOS/.zshrc)
 
 
 ## Performance optimization
