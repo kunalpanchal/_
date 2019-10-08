@@ -18,6 +18,11 @@ alias jmeter="open /usr/local/bin/jmeter"
 alias run-mongo="sudo /Users/kay/mongodb-osx-x86_64-3.6.1/bin/mongod"
 alias iphone-simulator="open /Applications/Xcode.app/Contents/Developer/Applications/Simulator.app"
 alias brewup="brew update; brew upgrade; brew prune; brew cleanup; brew doctor"
+alias android-accept-licences="$ANDROID_HOME/tools/bin/sdkmanager --licenses"
+alias s8="adb connect 192.168.0.183"
+alias touchbar-fix="pkill "Touch Bar agent""
+
+alias git-personal="ssh-add -D;ssh-add ~/.ssh/id_rsa"
 
 # All the exports
 export ANDROID_HOME=/Users/$USER/Library/Android/sdk
