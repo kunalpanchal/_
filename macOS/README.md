@@ -16,3 +16,11 @@ https://www.technipages.com/macos-sierra-enable-disable-spotlight
 3. `preferences -> accesibility -> general -> untick all`
 4. `preferences -> accesibility -> display -> tick reduce motion and tick reduce transparency`
 5. `preferences -> users and accounts -> your account -> login items -> disable unwanted`
+
+
+## Setup ZSH
+
+```shell
+git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+```
