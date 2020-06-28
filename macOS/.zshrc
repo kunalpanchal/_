@@ -6,7 +6,7 @@ ZSH_THEME="pygmalion"
 # ZSH_THEME="spaceship"
 
 plugins=(
-  git docker docker-compose
+  git docker docker-compose zsh-autosuggestions zsh-syntax-highlighting
 )
 
 unalias -m '*'
