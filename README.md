@@ -1,1 +1,1 @@
-# _ All the configuration files for OS
+# _ All my configuration files
