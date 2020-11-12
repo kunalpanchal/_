@@ -1,4 +1,4 @@
-# macOS tips
+# macOS setup & tips
 
 
 ## Initial setup mandatory changes
@@ -24,3 +24,9 @@ https://www.technipages.com/macos-sierra-enable-disable-spotlight
 git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
 ```
+
+## Tools and softwares
+
+- [Lunar](https://lunar.fyi): Intelligent adaptive brightness
+for your external display
+- Tunnel Bear
