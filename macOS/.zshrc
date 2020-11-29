@@ -51,6 +51,7 @@ alias g="ssh-add -D;ssh-add $SSH_KEY_GITHUB_PERSONAL"
 alias git-branch-clean='git branch | grep -v "master" | xargs git branch -D'
 alias please="sudo"
 alias size="du -hcs"
+alias search="grep -rnw . -e"
 
 # Fix mac issues
 alias fix-touchbar='pkill "Touch Bar agent"' # unfreeze touchbar
