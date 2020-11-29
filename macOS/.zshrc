@@ -24,6 +24,7 @@ alias rmnm='rm -rf node_modules'
 alias y='yarn'
 alias yt='yarn test'
 alias n10='nvm use 10'
+alias n14='nvm use 14'
 alias serve='npx http-server -o'
 
 # Applications
@@ -45,10 +46,11 @@ alias s8="adb connect 192.168.0.183"
 # General
 alias s='source ~/.zshrc' #Source .zshrc
 alias e='vim ~/.zshrc' #Edit .zshrc
-alias p='cd ~/Documents/projects' #Projects directory
+alias p='cd ~/Projects' #Projects directory
 alias g="ssh-add -D;ssh-add $SSH_KEY_GITHUB_PERSONAL"
 alias git-branch-clean='git branch | grep -v "master" | xargs git branch -D'
 alias please="sudo"
+alias size="du -hcs"
 
 # Fix mac issues
 alias fix-touchbar='pkill "Touch Bar agent"' # unfreeze touchbar
