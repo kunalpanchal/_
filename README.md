@@ -1,1 +1,2 @@
-# _ All my configuration files
+# All my configuration files
+
