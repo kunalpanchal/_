@@ -29,3 +29,6 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/p
 - [Lunar](https://lunar.fyi): Intelligent adaptive brightness
 for your external display
 - Tunnel Bear
+- https://rectangleapp.com/
+- [clocker menu bar app](https://apps.apple.com/us/app/clocker/id1056643111?mt=12)
+- [Aerial Screensaver app](https://aerialscreensaver.github.io/installation.html)
