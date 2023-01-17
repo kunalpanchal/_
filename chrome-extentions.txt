@@ -1,0 +1,3 @@
+## Enabled chrome extensions
+
+- chrome://flags/#scrollable-tabstrip
