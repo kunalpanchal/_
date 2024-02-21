@@ -93,6 +93,8 @@ alias robo='/opt/robo3t/bin/robo3t'
 alias server.n='sudo service nginx'
 alias server.a2='sudo service apache2'
 alias kraken='gitkraken'
+# Adjust external monitor brightness | b 0.5 
+alias b="xrandr --output HDMI-1 --brightness"
 
 #ssh alias
 alias zshconfig="mate ~/.zshrc"
